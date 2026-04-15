@@ -7,4 +7,3 @@ if (typeof module !== 'undefined') {
     addNumbers
   }
 }
-
